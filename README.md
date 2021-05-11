@@ -4,6 +4,6 @@ It is pretty buggy
 but it's just like a model 
 so ;)
 
-!(Click Here For demo)[https://whatsapp-clone-react.ninja21l.repl.co/]
+[I'm an inline-style link](https://www.google.com)
 # Tx To-
 Clever Programmer 
